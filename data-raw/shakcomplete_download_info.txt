@@ -1,0 +1,2 @@
+shak_complete.txt downloaded 2021-04-21 09:56:27 from
+https://sor-filer.sundhedsdata.dk/sor_produktion/data/sha/shakcomplete/shakcomplete.txt
